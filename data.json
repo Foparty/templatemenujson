@@ -29,7 +29,7 @@
       "pt": "Entradas",
       "fr": "Entrées",
       "de": "Vorspeisen",
-      "cover": ""
+      "cover": "https://photos.google.com/photo/AF1QipPD1Ue3Nts8GCRA8XNB3gWlzIBn8Fj5FRqwgzNl"
     },
     {
       "order": 2,
@@ -101,7 +101,6 @@
       "de": "assiettes",
       "cover": ""
     },
-
     {
       "order": 9,
       "slug": "wines",
@@ -134,7 +133,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Pimientos rojos asados acompañados de ventresca de atún, aliñados con aceite de oliva virgen extra.",
         "en": "Roasted red peppers served with tuna belly, drizzled with extra virgin olive oil.",
@@ -163,7 +164,11 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["eggs", "fish", "mustard"],
+      "allergens": [
+        "eggs",
+        "fish",
+        "mustard"
+      ],
       "description": {
         "es": "Clásica ensaladilla rusa con atún, patata, zanahoria, guisantes y mayonesa.",
         "en": "Classic Russian salad with tuna, potato, carrot, peas, and mayonnaise.",
@@ -221,7 +226,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["dairy"],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
         "es": "Queso curado de oveja, de sabor intenso y textura firme, servido en cuñas.",
         "en": "Aged sheep cheese, intense flavor and firm texture, served in wedges.",
@@ -250,7 +257,10 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["eggs", "fish"],
+      "allergens": [
+        "eggs",
+        "fish"
+      ],
       "description": {
         "es": "Ensalada variada con lechuga, tomate, espárragos, ventresca y huevo duro.",
         "en": "Mixed salad with lettuce, tomato, asparagus, tuna belly, and hard-boiled egg.",
@@ -279,7 +289,10 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["eggs", "fish"],
+      "allergens": [
+        "eggs",
+        "fish"
+      ],
       "description": {
         "es": "Ensalada tradicional de La Rioja con patata, atún, huevo duro, pimientos y aceitunas.",
         "en": "Traditional Rioja salad with potato, tuna, hard-boiled egg, peppers, and olives.",
@@ -308,7 +321,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Anchoas del Cantábrico servidas sobre pimientos asados y un toque de aceite de oliva.",
         "en": "Cantabrian anchovies served over roasted peppers and a drizzle of olive oil.",
@@ -337,7 +352,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["gluten"],
+      "allergens": [
+        "gluten"
+      ],
       "description": {
         "es": "Morcilla típica de Burgos, elaborada con arroz y especias, servida en rodajas.",
         "en": "Traditional Burgos black pudding made with rice and spices, served in slices.",
@@ -366,7 +383,11 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["gluten", "eggs", "dairy"],
+      "allergens": [
+        "gluten",
+        "eggs",
+        "dairy"
+      ],
       "description": {
         "es": "Croquetas caseras cremosas de pollo y jamón, crujientes por fuera y suaves por dentro.",
         "en": "Homemade creamy chicken and ham croquettes, crispy outside and soft inside.",
@@ -395,7 +416,10 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["gluten", "eggs"],
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
       "description": {
         "es": "Manitas de cochinillo rebozadas y fritas, crujientes y sabrosas, especialidad de la casa.",
         "en": "Battered and fried piglet trotters, crispy and flavorful, a house specialty.",
@@ -424,7 +448,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Salmón ahumado de calidad superior, cortado en finas lonchas y servido con alcaparras y cebolla.",
         "en": "Premium smoked salmon, thinly sliced and served with capers and onion.",
@@ -453,7 +479,9 @@
         "fr": "entrées",
         "de": "Vorspeisen"
       },
-      "allergens": ["gluten"],
+      "allergens": [
+        "gluten"
+      ],
       "description": {
         "es": "Guiso tradicional madrileño de callos, chorizo y morcilla en salsa picante.",
         "en": "Traditional Madrid-style stew of tripe, chorizo, and blood sausage in a spicy sauce.",
@@ -569,7 +597,10 @@
         "fr": "viandes et rôtis",
         "de": "fleisch und braten"
       },
-      "allergens": ["eggs", "nuts"],
+      "allergens": [
+        "eggs",
+        "nuts"
+      ],
       "description": {
         "es": "Pollo campero guisado en salsa pepitoria con almendras y huevo.",
         "en": "Free-range chicken stewed in pepitoria sauce with almonds and egg.",
@@ -656,7 +687,10 @@
         "fr": "viandes et rôtis",
         "de": "fleisch und braten"
       },
-      "allergens": ["gluten", "eggs"],
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
       "description": {
         "es": "Escalope de ternera empanado y frito, crujiente por fuera y tierno por dentro.",
         "en": "Breaded and fried veal escalope, crispy outside and tender inside.",
@@ -772,7 +806,9 @@
         "fr": "légumes",
         "de": "gemüse"
       },
-      "allergens": ["eggs"],
+      "allergens": [
+        "eggs"
+      ],
       "description": {
         "es": "Espárragos blancos servidos con mahonesa casera.",
         "en": "White asparagus served with homemade mayonnaise.",
@@ -917,7 +953,11 @@
         "fr": "soupes",
         "de": "Suppen"
       },
-      "allergens": ["eggs", "pork", "gluten"],
+      "allergens": [
+        "eggs",
+        "pork",
+        "gluten"
+      ],
       "description": {
         "es": "Sopa tradicional de ajo con huevo escalfado y jamón, receta castellana reconfortante.",
         "en": "Traditional garlic soup with poached egg and ham, a comforting Castilian recipe.",
@@ -946,7 +986,9 @@
         "fr": "soupes",
         "de": "Suppen"
       },
-      "allergens": ["none"],
+      "allergens": [
+        "none"
+      ],
       "description": {
         "es": "Caldo suave de ave, elaborado con pollo y verduras frescas.",
         "en": "Light chicken broth made with chicken and fresh vegetables.",
@@ -975,7 +1017,9 @@
         "fr": "soupes",
         "de": "Suppen"
       },
-      "allergens": ["gluten"],
+      "allergens": [
+        "gluten"
+      ],
       "description": {
         "es": "Gazpacho andaluz frío, elaborado con tomate, pimiento, pepino y aceite de oliva virgen extra.",
         "en": "Chilled Andalusian gazpacho made with tomato, pepper, cucumber, and extra virgin olive oil.",
@@ -1004,7 +1048,10 @@
         "fr": "oeufs",
         "de": "Eier"
       },
-      "allergens": ["eggs", "dairy"],
+      "allergens": [
+        "eggs",
+        "dairy"
+      ],
       "description": {
         "es": "Revuelto especial de la casa con ingredientes seleccionados, receta tradicional.",
         "en": "House special scrambled eggs with selected ingredients, traditional recipe.",
@@ -1033,7 +1080,10 @@
         "fr": "oeufs",
         "de": "Eier"
       },
-      "allergens": ["eggs", "dairy"],
+      "allergens": [
+        "eggs",
+        "dairy"
+      ],
       "description": {
         "es": "Huevos revueltos con espárragos trigueros frescos, plato ligero y sabroso.",
         "en": "Scrambled eggs with fresh wild asparagus, a light and tasty dish.",
@@ -1062,7 +1112,11 @@
         "fr": "oeufs",
         "de": "Eier"
       },
-      "allergens": ["eggs", "fish", "dairy"],
+      "allergens": [
+        "eggs",
+        "fish",
+        "dairy"
+      ],
       "description": {
         "es": "Huevos revueltos cremosos con salmón ahumado, combinación delicada y sabrosa.",
         "en": "Creamy scrambled eggs with smoked salmon, a delicate and tasty combination.",
@@ -1091,7 +1145,11 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["eggs", "fish", "dairy"],
+      "allergens": [
+        "eggs",
+        "fish",
+        "dairy"
+      ],
       "description": {
         "es": "Angulas frescas salteadas con un toque de ajo y guindilla.",
         "en": "Fresh eels sautéed with a touch of garlic and chili.",
@@ -1120,7 +1178,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Almejas frescas salteadas con un toque de ajo y guindilla.",
         "en": "Fresh clams sautéed with a touch of garlic and chili.",
@@ -1149,7 +1209,10 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish", "shellfish"],
+      "allergens": [
+        "fish",
+        "shellfish"
+      ],
       "description": {
         "es": "Gambas frescas cocinadas a la plancha.",
         "en": "Fresh prawns cooked on the grill.",
@@ -1178,7 +1241,10 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish", "shellfish"],
+      "allergens": [
+        "fish",
+        "shellfish"
+      ],
       "description": {
         "es": "Gambas salteadas con ajo y aceite de oliva.",
         "en": "Prawns sautéed with garlic and olive oil.",
@@ -1207,7 +1273,10 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish", "shellfish"],
+      "allergens": [
+        "fish",
+        "shellfish"
+      ],
       "description": {
         "es": "Langostinos frescos a la plancha o con ajo.",
         "en": "Fresh langoustines grilled or with garlic.",
@@ -1236,7 +1305,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Cazuela tradicional con mezcla de pescados frescos.",
         "en": "Traditional stew with a mix of fresh fish.",
@@ -1265,7 +1336,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Merluza fresca al horno o frita a tu gusto.",
         "en": "Fresh hake baked or fried to your liking.",
@@ -1294,7 +1367,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Lenguado fresco preparado frito, al horno o a la plancha.",
         "en": "Fresh sole prepared fried, baked, or grilled.",
@@ -1323,7 +1398,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Calamares frescos fritos hasta quedar crujientes.",
         "en": "Fresh squid fried until crispy.",
@@ -1352,7 +1429,9 @@
         "fr": "poissons",
         "de": "Fische"
       },
-      "allergens": ["fish"],
+      "allergens": [
+        "fish"
+      ],
       "description": {
         "es": "Bacalao fresco en salsa de tomate y ñora casera.",
         "en": "Fresh cod in homemade tomato and ñora sauce.",
@@ -1381,7 +1460,11 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["gluten", "dairy", "eggs"],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
       "description": {
         "es": "Tarta casera tradicional de Botín.",
         "en": "Traditional homemade Botín tart.",
@@ -1410,7 +1493,10 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "eggs"],
+      "allergens": [
+        "dairy",
+        "eggs"
+      ],
       "description": {
         "es": "Flan cremoso con caramelo líquido.",
         "en": "Creamy flan with liquid caramel.",
@@ -1439,7 +1525,10 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "eggs"],
+      "allergens": [
+        "dairy",
+        "eggs"
+      ],
       "description": {
         "es": "Crema catalana tradicional con caramelo tostado.",
         "en": "Traditional Catalan cream with toasted caramel.",
@@ -1468,7 +1557,9 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy"],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
         "es": "Arroz con leche tradicional con canela.",
         "en": "Traditional rice pudding with cinnamon.",
@@ -1497,7 +1588,9 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy"],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
         "es": "Postre catalán de queso fresco con miel.",
         "en": "Catalan dessert of fresh cheese with honey.",
@@ -1526,7 +1619,11 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "gluten", "eggs"],
+      "allergens": [
+        "dairy",
+        "gluten",
+        "eggs"
+      ],
       "description": {
         "es": "Coulant de chocolate caliente con corazón fundido.",
         "en": "Warm chocolate coulant with a molten center.",
@@ -1555,7 +1652,11 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "eggs", "gluten"],
+      "allergens": [
+        "dairy",
+        "eggs",
+        "gluten"
+      ],
       "description": {
         "es": "Tiramisú clásico con café y mascarpone.",
         "en": "Classic tiramisu with coffee and mascarpone.",
@@ -1584,7 +1685,9 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy"],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
         "es": "Helado cremoso de sabores variados.",
         "en": "Creamy ice cream in various flavors.",
@@ -1642,7 +1745,11 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "gluten", "eggs"],
+      "allergens": [
+        "dairy",
+        "gluten",
+        "eggs"
+      ],
       "description": {
         "es": "Tarta de queso cremosa con base crujiente.",
         "en": "Creamy cheesecake with a crunchy base.",
@@ -1671,7 +1778,10 @@
         "fr": "desserts",
         "de": "Desserts"
       },
-      "allergens": ["dairy", "eggs"],
+      "allergens": [
+        "dairy",
+        "eggs"
+      ],
       "description": {
         "es": "Mousse ligera y refrescante de limón.",
         "en": "Light and refreshing lemon mousse.",
